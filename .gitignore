@@ -1,0 +1,3 @@
+# don't push my file
+node_modules/
+package-lock.json
