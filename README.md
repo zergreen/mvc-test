@@ -1,6 +1,5 @@
-npm install express 
-npm install cors
-npm install helmet
-npm install mysql
+# mvc-test
+ให้ทุกคนรันคำสั่งนี้
+npm i
+npm start
 
-run project using command " node server.js "
